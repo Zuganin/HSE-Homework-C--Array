@@ -1,0 +1,3 @@
+/Users/vadimzenin/CLionProjects/BDZ_Array/cmake-build-debug/CMakeFiles/BDZ_Array.dir
+/Users/vadimzenin/CLionProjects/BDZ_Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vadimzenin/CLionProjects/BDZ_Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
